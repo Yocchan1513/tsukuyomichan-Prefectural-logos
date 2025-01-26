@@ -4,11 +4,14 @@
 
 # DEMO
 
+
+
 # License
 
 ## JAPANESE
 
 この素材は、フリー素材キャラクター「つくよみちゃん」の非公式素材です。
+
 つくよみちゃんキャラクターライセンスに基づき公開しています。
 
 ■つくよみちゃん公式サイト⇒
@@ -34,9 +37,10 @@
 
 © Rei Yumesaki / azukikoro15
 
-### Englishp
+### English
 
 This material is unofficial material of the free material character “Tsukuyomi-chan”.
+
 This material is released based on the Tsukuyomi-chan character license.
 
 Tsukuyomi-chan official site⇒[official site](https://tyc.rei-yumesaki.net/)
